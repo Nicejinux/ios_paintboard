@@ -2,6 +2,10 @@
 
 Author: Shen Dong
 
+# License
+
+MIT License
+
 # Intro
 
 1. Save drawings to camera roll
